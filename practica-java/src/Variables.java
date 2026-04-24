@@ -6,6 +6,7 @@ public class Variables {
         int edad = 31;
         double precio = 300.40;
         boolean disponible = true;
+        //El warning que da la variable disponible es porque se define de manera dirrecta no logica
         String disponibleText = (disponible) ? "Si" : "No"; // Estos es un lambda de condicion
         char genero;
 
