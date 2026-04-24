@@ -1,4 +1,6 @@
-public class ReservaHotal {
+package retos;
+
+public class ReservaHotel {
     static void main() {
         var nombreCliente = "Luis Orozco";
         var diasEstancia = 4;

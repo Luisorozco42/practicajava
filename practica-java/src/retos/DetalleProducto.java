@@ -1,3 +1,5 @@
+package retos;
+
 public class DetalleProducto {
     static void main() {
         //Tercer reto del curso toca poner variables y definirlas, luego cambiar el valor de cada una

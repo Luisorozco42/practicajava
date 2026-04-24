@@ -1,3 +1,5 @@
+package variables;
+
 public class DetalleLibro {
     static void main() {
         //Detalle de un libro

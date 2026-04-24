@@ -1,3 +1,5 @@
+package variables;
+
 public class TiposDatos {
     static void main() {
         //Tipos de datos en java

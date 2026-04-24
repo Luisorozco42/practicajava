@@ -1,7 +1,9 @@
+package variables;
+
 public class Variables {
     static void main() {
         //Toca ver como se crean variables de nuevo
-        //Cabee a destacar que cuando proponen los ejercicios yo realizo estos a como yo quiero
+        //Cabe a destacar que cuando proponen los ejercicios yo realizo estos a como yo quiero
         //En otras palabras a veces se mirara codigo mas avanzados
         int edad = 31;
         double precio = 300.40;

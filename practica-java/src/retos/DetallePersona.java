@@ -1,3 +1,5 @@
+package retos;
+
 public class DetallePersona {
     static void main() {
         // Este es el segundo reto propuesto en el curso

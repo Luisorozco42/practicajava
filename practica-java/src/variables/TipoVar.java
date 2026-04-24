@@ -1,3 +1,5 @@
+package variables;
+
 public class TipoVar {
     static void main() {
         /*

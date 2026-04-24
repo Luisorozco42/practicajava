@@ -1,10 +1,12 @@
+package variables;
+
 public class Constantes {
     static void main() {
         /*Las constantes se declaran con la palabra reservada final, luego el tipo de variable
         Y por ultimo el nombre de la variable completamente en mayuscula y separado por guines bajos
         Cabe a destacar que se declara su valor en el momento y no se puede cambiar del todo
         */
-        System.out.println("*** Constantes en Java ***");
+        System.out.println("*** variables.Constantes en Java ***");
         final var DIAS_SEMANA = 7;
         System.out.println("DIAS_SEMANA = " + DIAS_SEMANA);
         final var PI = 3.1416;

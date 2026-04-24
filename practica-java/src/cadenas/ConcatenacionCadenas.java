@@ -1,3 +1,5 @@
+package cadenas;
+
 public class ConcatenacionCadenas {
     static void main() {
         System.out.println("***Concatenacios de Cadenas***");
